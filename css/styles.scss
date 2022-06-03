@@ -1,0 +1,30 @@
+    .hero {
+        &-image {
+            background-image: url(https://cdn.pixabay.com/photo/2019/05/27/22/57/planner-4233907_1280.jpg);
+            background-size: cover;
+            height: 60vh;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+        &-heading {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100px;
+            text-align: center;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: white;
+            background-color: black;
+            opacity: 50%;
+        }
+        &-heading-text {
+            text-align: center;
+            padding: 10px;
+        }
+        &-text {
+            font-size: 200%;
+        }
+    }

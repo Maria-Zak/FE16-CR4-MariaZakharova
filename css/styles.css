@@ -1,0 +1,44 @@
+.hero-image {
+  background-image: url(https://cdn.pixabay.com/photo/2019/05/27/22/57/planner-4233907_1280.jpg);
+  background-size: cover;
+  height: 60vh;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+}
+
+.hero-heading {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100px;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: white;
+  background-color: black;
+  opacity: 50%;
+}
+
+.hero-heading-text {
+  text-align: center;
+  padding: 10px;
+}
+
+.hero-text {
+  font-size: 200%;
+}
+/*# sourceMappingURL=styles.css.map */
