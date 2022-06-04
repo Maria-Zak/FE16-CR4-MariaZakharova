@@ -105,11 +105,8 @@ function priorityAction() {
             plans[i].priority++;
             document.getElementsByClassName("result")[i].innerHTML = plans[i].priority;
 
-
             var sortedArray = plans.sort((a, b) => b.priority - a.priority);
-
             updateHTML(sortedArray);
-
         });
     }
 }
