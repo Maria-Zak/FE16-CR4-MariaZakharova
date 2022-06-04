@@ -2,55 +2,55 @@ let tasks = `[{
     "task": "Cat food",
     "about": "Call & order cat food",
     "image": "https://cdn.pixabay.com/photo/2017/09/16/01/10/food-flat-lay-2754262_1280.jpg",
-    "priority": "1",
-    "deadline": "7.06.2022"
+    "priority": 0,
+    "deadline": "07.06.2022"
 },{
     "task": "Laundry",
     "about": "Start whites laundry, put to dry",
     "image": "https://cdn.pixabay.com/photo/2015/06/10/13/23/clothesline-804812_1280.jpg",
-    "priority": "4",
+    "priority": 0,
     "deadline": "12.06.2022"
 },{
     "task": "Drivers licence",
     "about": "Find documents from school",
     "image": "https://cdn.pixabay.com/photo/2016/02/14/00/13/brake-1198862_1280.jpg",
-    "priority": "6",
-    "deadline": "13.06.2022"
+    "priority": 0,
+    "deadline": "15.06.2022"
 },{
-    "task": "Cat food",
-    "about": "Call & order cat food",
-    "image": "https://cdn.pixabay.com/photo/2017/09/16/01/10/food-flat-lay-2754262_1280.jpg",
-    "priority": "1",
-    "deadline": "7.06.2022"
+    "task": "Finish homework",
+    "about": "Do math homework",
+    "image": "https://cdn.pixabay.com/photo/2016/03/05/20/00/accountant-1238598_1280.jpg",
+    "priority": 0,
+    "deadline": "09.06.2022"
 },{
-    "task": "Laundry",
-    "about": "Start whites laundry, put to dry",
-    "image": "https://cdn.pixabay.com/photo/2015/06/10/13/23/clothesline-804812_1280.jpg",
-    "priority": "4",
-    "deadline": "12.06.2022"
+    "task": "Ironing",
+    "about": "Iron and fold bedsheets",
+    "image": "https://cdn.pixabay.com/photo/2014/07/27/17/29/ironing-403074_1280.jpg",
+    "priority": 0,
+    "deadline": "22.06.2022"
 },{
-    "task": "Drivers licence",
-    "about": "Find documents from school",
-    "image": "https://cdn.pixabay.com/photo/2016/02/14/00/13/brake-1198862_1280.jpg",
-    "priority": "6",
-    "deadline": "13.06.2022"
+    "task": "Library",
+    "about": "Return books to the library",
+    "image": "https://cdn.pixabay.com/photo/2016/01/19/01/42/library-1147815_1280.jpg",
+    "priority": 0,
+    "deadline": "30.06.2022"
 },{
-    "task": "Cat food",
-    "about": "Call & order cat food",
-    "image": "https://cdn.pixabay.com/photo/2017/09/16/01/10/food-flat-lay-2754262_1280.jpg",
-    "priority": "1",
-    "deadline": "7.06.2022"
+    "task": "Cat play",
+    "about": "Play with cat for 30min",
+    "image": "https://cdn.pixabay.com/photo/2015/09/09/19/41/cat-932846_1280.jpg",
+    "priority": 0,
+    "deadline": "06.06.2022"
 },{
-    "task": "Laundry",
-    "about": "Start whites laundry, put to dry",
-    "image": "https://cdn.pixabay.com/photo/2015/06/10/13/23/clothesline-804812_1280.jpg",
-    "priority": "4",
-    "deadline": "12.06.2022"
+    "task": "Tax declaration",
+    "about": "Finalize tax declaration",
+    "image": "https://cdn.pixabay.com/photo/2019/04/02/09/27/income-tax-4097292_1280.jpg",
+    "priority": 0,
+    "deadline": "30.06.2022"
 },{
-    "task": "Drivers licence",
-    "about": "Find documents from school",
-    "image": "https://cdn.pixabay.com/photo/2016/02/14/00/13/brake-1198862_1280.jpg",
-    "priority": "6",
-    "deadline": "13.06.2022"
+    "task": "Vacation",
+    "about": "Book vacation tickets",
+    "image": "https://cdn.pixabay.com/photo/2017/06/05/11/01/airport-2373727_1280.jpg",
+    "priority": 0,
+    "deadline": "31.07.2022"
 }
 ]`
