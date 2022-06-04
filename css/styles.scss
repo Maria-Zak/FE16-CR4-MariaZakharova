@@ -28,3 +28,37 @@
             font-size: 200%;
         }
     }
+    
+    .content {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        margin: 10px;
+        padding: 10px;
+    }
+    
+    .card {
+        text-align: center;
+        margin-bottom: 10px;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    }
+    
+    .priority {
+        text-align: left;
+    }
+    
+    .taskBtn {
+        display: flex;
+        justify-content: space-between;
+        padding: 5px;
+    }
+    
+    .buttons {
+        display: flex;
+        justify-content: flex-end;
+        gap: 5px;
+    }
+    
+    .copyright {
+        margin-bottom: 0;
+    }

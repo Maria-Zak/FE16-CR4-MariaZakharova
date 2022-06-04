@@ -1,0 +1,56 @@
+let tasks = `[{
+    "task": "Cat food",
+    "about": "Call & order cat food",
+    "image": "https://cdn.pixabay.com/photo/2017/09/16/01/10/food-flat-lay-2754262_1280.jpg",
+    "priority": "1",
+    "deadline": "7.06.2022"
+},{
+    "task": "Laundry",
+    "about": "Start whites laundry, put to dry",
+    "image": "https://cdn.pixabay.com/photo/2015/06/10/13/23/clothesline-804812_1280.jpg",
+    "priority": "4",
+    "deadline": "12.06.2022"
+},{
+    "task": "Drivers licence",
+    "about": "Find documents from school",
+    "image": "https://cdn.pixabay.com/photo/2016/02/14/00/13/brake-1198862_1280.jpg",
+    "priority": "6",
+    "deadline": "13.06.2022"
+},{
+    "task": "Cat food",
+    "about": "Call & order cat food",
+    "image": "https://cdn.pixabay.com/photo/2017/09/16/01/10/food-flat-lay-2754262_1280.jpg",
+    "priority": "1",
+    "deadline": "7.06.2022"
+},{
+    "task": "Laundry",
+    "about": "Start whites laundry, put to dry",
+    "image": "https://cdn.pixabay.com/photo/2015/06/10/13/23/clothesline-804812_1280.jpg",
+    "priority": "4",
+    "deadline": "12.06.2022"
+},{
+    "task": "Drivers licence",
+    "about": "Find documents from school",
+    "image": "https://cdn.pixabay.com/photo/2016/02/14/00/13/brake-1198862_1280.jpg",
+    "priority": "6",
+    "deadline": "13.06.2022"
+},{
+    "task": "Cat food",
+    "about": "Call & order cat food",
+    "image": "https://cdn.pixabay.com/photo/2017/09/16/01/10/food-flat-lay-2754262_1280.jpg",
+    "priority": "1",
+    "deadline": "7.06.2022"
+},{
+    "task": "Laundry",
+    "about": "Start whites laundry, put to dry",
+    "image": "https://cdn.pixabay.com/photo/2015/06/10/13/23/clothesline-804812_1280.jpg",
+    "priority": "4",
+    "deadline": "12.06.2022"
+},{
+    "task": "Drivers licence",
+    "about": "Find documents from school",
+    "image": "https://cdn.pixabay.com/photo/2016/02/14/00/13/brake-1198862_1280.jpg",
+    "priority": "6",
+    "deadline": "13.06.2022"
+}
+]`
