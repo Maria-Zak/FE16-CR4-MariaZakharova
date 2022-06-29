@@ -103,14 +103,18 @@ function priorityAction() {
     for (let i = 0; i < importance.length; i++) {
         importance[i].addEventListener("click", function() {
             plans[i].priority++;
+            if (plans[i].priority > 5) { plans[i].priority = 0 }
             document.getElementsByClassName("result")[i].innerHTML = plans[i].priority;
-
-            var sortedArray = plans.sort((a, b) => b.priority - a.priority);
-            updateHTML(sortedArray);
+            updateHTML(plans)
         });
     }
 }
+let sort = document.getElementById("sort")
+sort.addEventListener("click", sortAll)
 
+function sortAll() {
+    plans.sort((a, b) => b.priority - a.priority);
+    updateHTML(plans)
+}
 
 updateHTML(plans);
-// priorityAction();
