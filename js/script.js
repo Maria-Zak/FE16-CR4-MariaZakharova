@@ -20,7 +20,7 @@ function updateHTML(arr) {
                 <p class="card-text">${data.about}.</p>
                 <hr>
                 <div class="priority">
-                <p><i class='fa fa-warning'></i> Priority level<a class="btn-clicks btn btn-${color}"><span class="result">${data.priority}</span></a></p>
+                <p><i class='fa fa-warning'></i> Priority level &nbsp<a class="btn-clicks btn btn-${color}"><span class="result">${data.priority}</span></a></p>
                 <p><i class='fa fa-calendar-times-o'></i> Deadline: ${data.deadline}</p>
                 <hr>
                 </div>
